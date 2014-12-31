@@ -1,0 +1,6 @@
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\bin\Debug\SendMailViaSmtpDemo.exe.config
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\bin\Debug\SendMailViaSmtpDemo.exe
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\bin\Debug\SendMailViaSmtpDemo.pdb
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\obj\Debug\SendMailViaSmtpDemo.csprojResolveAssemblyReference.cache
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\obj\Debug\SendMailViaSmtpDemo.exe
+c:\users\v-hoverz\documents\visual studio 14\Projects\SendMailViaSmtpDemo\obj\Debug\SendMailViaSmtpDemo.pdb
